@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Daniele
 
 - 💼 I’m currently working as Software Engineer @Zopa 
+- ❤️ I love developing in Kotlin and Java
 - 🏋️ I’d love to work more with Scala and Haskell
 - ⚡ Fun fact: My profile picture is an espresso ☕ because I love italian coffee and my first language as a professional software engineer was Java
 
