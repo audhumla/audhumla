@@ -2,7 +2,7 @@
 
 - 💼 I’m currently working as Software Engineer @Zopa 
 - 🏋️ I’d love to work more with Scala and Haskell
-- ⚡ Fun fact: My profile picture is an espresso ☕ because I love italian coffee and my first language as a professional was Java
+- ⚡ Fun fact: My profile picture is an espresso ☕ because I love italian coffee and my first language as a professional software engineer was Java
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/danieleascione/)
